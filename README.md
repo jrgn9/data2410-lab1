@@ -43,7 +43,11 @@ members per group).
 task3.py, task4.py).
 2. document all the variables and definitions.
 3. document the following for each function:
-• what the function does.
-• what input and output parameters mean and how they are used.
-• what the function returns.
-• how you handle exceptions.
+   
+   • what the function does.
+   
+   • what input and output parameters mean and how they are used.
+   
+   • what the function returns.
+   
+   • how you handle exceptions.
