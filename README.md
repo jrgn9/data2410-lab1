@@ -1,5 +1,9 @@
 # data2410-lab1
 
+> ## ⚠️ Migrated to Codeberg
+>
+> This project has [migrated to Codeberg](https://codeberg.org/jrgn9/cheater).
+
 ## Introduction
 Fairness measures or metrics are used in computer networks to determine whether users or applications
 are receiving a fair share of system resources. Commonly, the throughput of competing transfers
